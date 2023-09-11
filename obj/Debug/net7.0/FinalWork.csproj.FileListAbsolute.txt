@@ -1,0 +1,15 @@
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/obj/Debug/net7.0/FinalWork.csproj.AssemblyReference.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/obj/Debug/net7.0/FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/obj/Debug/net7.0/FinalWork.AssemblyInfoInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/obj/Debug/net7.0/FinalWork.AssemblyInfo.cs
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/obj/Debug/net7.0/FinalWork.csproj.CoreCompileInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/bin/Debug/net7.0/FinalWork
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/bin/Debug/net7.0/FinalWork.deps.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/bin/Debug/net7.0/FinalWork.runtimeconfig.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/bin/Debug/net7.0/FinalWork.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/bin/Debug/net7.0/FinalWork.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/obj/Debug/net7.0/FinalWork.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/obj/Debug/net7.0/refint/FinalWork.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/obj/Debug/net7.0/FinalWork.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/obj/Debug/net7.0/FinalWork.genruntimeconfig.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/FinalWork/obj/Debug/net7.0/ref/FinalWork.dll
